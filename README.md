@@ -1,2 +1,2 @@
 # portifolio-django
-Criação do meu portifolio em Django
+Criação do meu portifolio em Django.
